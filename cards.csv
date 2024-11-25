@@ -1,0 +1,3 @@
+card_number,expiration_date,cvc,name_on_the_card
+"1234567890123456","12/26","123","JOHN SMITH"
+"5678","12/28","456","JANE SMITH"
